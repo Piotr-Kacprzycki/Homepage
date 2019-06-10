@@ -1,0 +1,25 @@
+    body {
+        box-sizing: border-box;
+        background-color: rgb(224, 218, 218);
+        font: italic;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .header {
+        text-align: center;
+    }
+    
+    .menu {
+        display: flex;
+        flex-wrap: wrap;
+        background: skyblue;
+        list-style: none;
+        margin: 0;
+        padding: 0px;
+        width: 1400px;
+    }
+    
+    {
+        text-decoration: underline;
+    }
