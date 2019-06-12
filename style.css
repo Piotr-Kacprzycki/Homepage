@@ -4,16 +4,3 @@
         margin: 0;
         padding: 0;
     }
-    
-    .header {
-        text-align: center;
-    }
-    
-    .menu {
-        display: flex;
-        flex-wrap: wrap;
-        background: skyblue;
-        list-style: none;
-        margin: 0;
-        width: 1400px;
-    }
