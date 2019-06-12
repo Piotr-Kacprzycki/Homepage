@@ -1,6 +1,20 @@
     body {
         box-sizing: border-box;
-        background-color: blueviolet;
         margin: 0;
         padding: 0;
+        background: #98999b;
+        display: block;
+    }
+    
+    .header__title--bold {
+        border: 1px solid black;
+        display: block;
+        text-align: center;
+        font-weight: 900;
+    }
+    
+    .heading__title {
+        font-weight: 300;
+        text-align: center;
+        border: 1px solid black;
     }
