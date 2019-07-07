@@ -35,7 +35,7 @@ body {
 
 .art1 {
     flex-basis: 800px;
-    height: 250px;
+    height: 300px;
 }
 
 .art2 {
@@ -84,7 +84,8 @@ body {
     text-align: center;
 }
 
-.header__home {
+.header__page__img {
+    height: 400px;
     width: 100%;
 }
 
@@ -95,26 +96,19 @@ body {
     -moz-transform: scale(1.2);
 }
 
-.main__header {
-    text-decoration: underline;
-}
-
 .main__article1 {
     width: 400px;
     height: 400px;
-    margin-top: 50px;
 }
 
 .main__article2 {
     width: 400px;
     height: 400px;
-    margin-top: 50px;
 }
 
 .main__article3 {
     width: 400px;
     height: 400px;
-    margin-top: 50px;
 }
 
 .main__article4 {
